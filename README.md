@@ -1,4 +1,4 @@
-# 🎨 AI-Powered-Visual-Learning-App-Using-MIT-App-inventer
+# 🎨 AI-Powered-Visual-Learning-App-Using-MIT-App-inventor
 
 **Visual Learning Quiz App** is an interactive **AI-powered educational mobile application** developed using **MIT App Inventor**.  
 The app is specially designed to help **small kids** learn and identify everyday objects in a **fun, visual, and engaging way**.
